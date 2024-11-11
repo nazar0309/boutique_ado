@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'boutique_ado',
     'home',
+    'products',
 ]
 
 MIDDLEWARE = [
